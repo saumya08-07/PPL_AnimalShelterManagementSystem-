@@ -1,0 +1,222 @@
+id,intakedate,intakereason,sheltercode,animalname,breedname,speciesname,animalage,gender,movementdate,typeofmovement,returndate,returnreason
+10001,1/15/2023,Abandoned,S001,Bella,Golden Retriever,Dog,4 years 2 months,Female,1/20/2023,Adoption,3/1/2023,No longer able to care for
+10002,1/16/2023,Stray,S002,Unnamed,Labrador Retriever,Dog,2 years 5 months,Male,1/22/2023,Foster,2/25/2023,Health issues
+10003,1/17/2023,Moving,S003,Whiskers,Domestic Short Hair,Cat,3 years 0 months,Male,1/23/2023,Adoption,,
+10004,1/18/2023,Incompatible with owner lifestyle,S004,Duke,German Shepherd,Dog,5 years 7 months,Male,1/25/2023,Adoption,3/10/2023,Too energetic
+10005,1/19/2023,Abandoned,S005,Luna,Domestic Long Hair,Cat,2 years 3 months,Female,1/30/2023,Foster,2/20/2023,Allergies to pets
+10006,1/20/2023,Injured Wildlife,S006,Ollie,Opossum,Opossum,1 year 1 month,Male,1/21/2023,Transfer,,
+10007,1/21/2023,Stray,S007,Unnamed,Pitbull,Dog,6 years 4 months,Female,1/27/2023,Adoption,,
+10008,1/22/2023,Abandoned,S008,Rocky,Beagle,Dog,3 years 9 months,Male,1/29/2023,Adoption,3/5/2023,Moved to a no-pets apartment
+10009,1/23/2023,Moving,S009,Bella,Domestic Short Hair,Cat,2 years 6 months,Female,2/1/2023,Adoption,3/15/2023,New baby in the family
+10010,1/24/2023,Incompatible with owner lifestyle,S010,Leo,Rottweiler,Dog,4 years 1 month,Male,1/28/2023,Foster,3/10/2023,Behavioral issues
+10011,2/1/2023,Stray,S011,Unnamed,American Shorthair,Cat,5 years 0 months,Male,2/5/2023,Adoption,,
+10012,2/2/2023,Abandoned,S012,Binky,Holland Lop,Rabbit,1 year 2 months,Female,2/10/2023,Adoption,,
+10013,2/3/2023,Found injured,S013,Snowball,Dwarf Hamster,Hamster,6 months 0 days,Male,2/7/2023,Adoption,,
+10014,2/4/2023,Stray,S014,Unnamed,Burmese,Cat,3 years 4 months,Female,2/10/2023,Adoption,3/15/2023,Unable to integrate with other pets
+10015,2/5/2023,Owner passed away,S015,Charlie,Golden Retriever,Dog,7 years 5 months,Male,2/12/2023,Adoption,,
+10016,2/6/2023,Stray,S016,Unnamed,Persian,Cat,2 years 0 months,Female,2/14/2023,Foster,2/28/2023,Found a friend to adopt
+10017,2/7/2023,Abandoned,S017,Nibbles,Rex Rabbit,Rabbit,4 years 3 months,Male,2/13/2023,Adoption,,
+10018,2/8/2023,Stray,S018,Unnamed,Beagle,Dog,5 years 8 months,Female,2/15/2023,Adoption,3/20/2023,New allergies
+10019,2/9/2023,Found injured,S019,Coco,Siamese,Cat,2 years 0 months,Female,2/11/2023,Foster,,
+10020,2/10/2023,Stray,S020,Unnamed,American Bulldog,Dog,3 years 5 months,Male,2/12/2023,Adoption,3/12/2023,Moving to a pet-free home
+10021,2/11/2023,Incompatible with owner lifestyle,S021,Fluffy,Maine Coon,Cat,6 years 2 months,Female,2/18/2023,Adoption,3/15/2023,Allergies
+10022,2/12/2023,Abandoned,S022,Unnamed,Dutch,Rabbit,2 years 0 months,Male,2/19/2023,Foster,3/2/2023,Owner had health issues
+10023,2/13/2023,Stray,S023,Unnamed,Cocker Spaniel,Dog,1 year 8 months,Female,2/20/2023,Adoption,,
+10024,2/14/2023,Owner passed away,S024,Gizmo,Abyssinian,Hamster,1 year 5 months,Male,2/21/2023,Adoption,,
+10025,2/15/2023,Abandoned,S025,Unnamed,Tortoise,Tortoise,10 years 0 months,Male,2/22/2023,Adoption,3/5/2023,Relocation
+10026,2/16/2023,Stray,S026,Unnamed,Bengal,Cat,2 years 5 months,Female,2/23/2023,Adoption,3/12/2023,New allergies
+10027,2/17/2023,Found injured,S027,Spot,Boxer,Dog,4 years 4 months,Male,2/24/2023,Foster,,
+10028,2/18/2023,Abandoned,S028,Unnamed,Shih Tzu,Dog,6 years 0 months,Female,2/25/2023,Adoption,3/18/2023,No time for a pet
+10029,2/19/2023,Moving,S029,Mittens,Domestic Short Hair,Cat,3 years 1 month,Male,2/26/2023,Adoption,3/22/2023,Allergic reactions
+10030,2/20/2023,Stray,S030,Unnamed,Chihuahua,Dog,4 years 0 months,Female,2/28/2023,Adoption,3/25/2023,New job requires travel
+10031,2/21/2023,Abandoned,S031,Ginger,Domestic Shorthair,Cat,2 years 4 months,Female,3/1/2023,Adoption,,
+10032,2/22/2023,Found injured,S032,Unnamed,Bearded Dragon,Reptile,1 year 6 months,Male,3/5/2023,Adoption,,
+10033,2/23/2023,Stray,S033,Unnamed,Poodle,Dog,5 years 3 months,Male,3/1/2023,Adoption,,
+10034,2/24/2023,Owner passed away,S034,Daisy,Cockatiel,Bird,3 years 0 months,Female,3/2/2023,Adoption,,
+10035,2/25/2023,Abandoned,S035,Unnamed,Great Dane,Dog,6 years 1 month,Male,3/3/2023,Adoption,3/30/2023,Family allergies
+10036,2/26/2023,Stray,S036,Unnamed,Scottish Fold,Cat,3 years 2 months,Female,3/4/2023,Adoption,,
+10037,2/27/2023,Moving,S037,Max,Doberman,Dog,2 years 5 months,Male,3/1/2023,Adoption,3/20/2023,Relocation
+10038,2/28/2023,Abandoned,S038,Unnamed,Miniature Pinscher,Dog,4 years 0 months,Female,3/3/2023,Adoption,4/1/2023,Owner no longer able to care
+10039,3/1/2023,Stray,S039,Unnamed,Sphynx,Cat,3 years 8 months,Male,3/5/2023,Adoption,,
+10040,3/2/2023,Incompatible with owner lifestyle,S040,Snowy,Alaskan Malamute,Dog,2 years 1 month,Female,3/7/2023,Adoption,4/2/2023,Too large for apartment
+10041,3/3/2023,Abandoned,S041,Unnamed,Coonhound,Dog,5 years 5 months,Male,3/10/2023,Adoption,,
+10042,3/4/2023,Stray,S042,Unnamed,Tabby,Cat,4 years 4 months,Female,3/8/2023,Adoption,4/5/2023,New landlord restrictions
+10043,3/5/2023,Found injured,S043,Teddy,Bichon Frise,Dog,3 years 6 months,Male,3/9/2023,Adoption,,
+10044,3/6/2023,Stray,S044,Unnamed,Ragdoll,Cat,1 year 0 months,Female,3/10/2023,Adoption,4/10/2023,Allergic to cat hair
+10045,3/7/2023,Abandoned,S045,Unnamed,American Bulldog,Dog,4 years 2 months,Male,3/11/2023,Adoption,,
+10046,3/8/2023,Owner passed away,S046,Bella,Cocker Spaniel,Dog,8 years 4 months,Female,3/12/2023,Adoption,,
+10047,3/9/2023,Stray,S047,Unnamed,Persian,Cat,2 years 9 months,Male,3/13/2023,Adoption,,
+10048,3/10/2023,Moving,S048,Sparky,Beagle,Dog,5 years 0 months,Male,3/15/2023,Adoption,4/1/2023,Relocation
+10049,3/11/2023,Stray,S049,Unnamed,Abyssinian,Rabbit,3 years 3 months,Female,3/16/2023,Adoption,,
+10050,3/12/2023,Abandoned,S050,Unnamed,Havanese,Dog,1 year 8 months,Male,3/18/2023,Adoption,,
+10051,3/13/2023,Stray,S051,Unnamed,Maine Coon,Cat,4 years 2 months,Female,3/20/2023,Adoption,4/15/2023,No time for a pet
+10052,3/14/2023,Incompatible with owner lifestyle,S052,Rex,Doberman,Dog,2 years 4 months,Male,3/22/2023,Adoption,4/5/2023,Behavioral issues
+10053,3/15/2023,Stray,S053,Unnamed,Shih Tzu,Dog,1 year 5 months,Female,3/21/2023,Adoption,4/8/2023,Allergies
+10054,3/16/2023,Found injured,S054,Spike,Rat Terrier,Dog,3 years 3 months,Male,3/24/2023,Adoption,,
+10055,3/17/2023,Stray,S055,Unnamed,Cornish Rex,Cat,4 years 0 months,Female,3/25/2023,Adoption,4/18/2023,Allergic reactions
+10056,3/18/2023,Abandoned,S056,Unnamed,Boston Terrier,Dog,5 years 9 months,Male,3/26/2023,Adoption,,
+10057,3/19/2023,Owner passed away,S057,Luna,Rottweiler,Dog,7 years 2 months,Female,3/28/2023,Adoption,,
+10058,3/20/2023,Incompatible with owner lifestyle,S058,Unnamed,Calico,Cat,3 years 4 months,Male,3/30/2023,Adoption,4/10/2023,New baby in the family
+10059,3/21/2023,Stray,S059,Unnamed,Siberian Husky,Dog,4 years 5 months,Female,4/2/2023,Adoption,,
+10060,3/22/2023,Moving,S060,Ginger,Domestic Long Hair,Cat,1 year 7 months,Male,4/1/2023,Adoption,4/12/2023,Allergies to pets
+10061,3/23/2023,Abandoned,S061,Unnamed,Pekingese,Dog,2 years 3 months,Female,4/3/2023,Adoption,4/15/2023,Moved to a no-pets apartment
+10062,3/24/2023,Stray,S062,Unnamed,Bengal,Cat,3 years 0 months,Male,4/5/2023,Adoption,,
+10063,3/25/2023,Found injured,S063,Charlie,Akita,Dog,5 years 2 months,Male,4/6/2023,Adoption,,
+10064,3/26/2023,Stray,S064,Unnamed,Siamese,Cat,1 year 8 months,Female,4/7/2023,Adoption,4/20/2023,Allergic to cat hair
+10065,3/27/2023,Abandoned,S065,Unnamed,Beagle,Dog,3 years 1 month,Male,4/8/2023,Adoption,,
+10066,3/28/2023,Stray,S066,Unnamed,Persian,Cat,2 years 4 months,Female,4/9/2023,Adoption,4/25/2023,New allergies
+10067,3/29/2023,Moving,S067,Duke,Boxer,Dog,4 years 5 months,Male,4/10/2023,Adoption,4/28/2023,Relocation
+10068,3/30/2023,Incompatible with owner lifestyle,S068,Unnamed,Bichon Frise,Dog,3 years 6 months,Female,4/11/2023,Adoption,4/30/2023,Allergies
+10069,3/31/2023,Stray,S069,Unnamed,Shih Tzu,Dog,2 years 3 months,Male,4/12/2023,Adoption,,
+10070,4/1/2023,Found injured,S070,Nibbles,Abyssinian,Rabbit,4 years 0 months,Male,4/14/2023,Adoption,,
+10071,4/2/2023,Stray,S071,Unnamed,Siberian Husky,Dog,5 years 1 month,Female,4/16/2023,Adoption,5/5/2023,New job requires travel
+10072,4/3/2023,Abandoned,S072,Whiskers,Bengal,Cat,3 years 8 months,Male,4/18/2023,Adoption,,
+10073,4/4/2023,Moving,S073,Unnamed,German Shepherd,Dog,2 years 5 months,Female,4/20/2023,Adoption,5/10/2023,New allergies
+10074,4/5/2023,Stray,S074,Unnamed,Domestic Shorthair,Cat,1 year 2 months,Male,4/21/2023,Adoption,,
+10075,4/6/2023,Abandoned,S075,Bella,Pomeranian,Dog,5 years 4 months,Female,4/22/2023,Adoption,5/15/2023,Family allergies
+10076,4/7/2023,Owner passed away,S076,Unnamed,American Bulldog,Dog,3 years 5 months,Male,4/23/2023,Adoption,5/5/2023,Owner had health issues
+10077,4/8/2023,Stray,S077,Unnamed,British Shorthair,Cat,2 years 4 months,Female,4/26/2023,Adoption,5/25/2023,Allergic to cat hair
+10078,4/9/2023,Moving,S078,Charlie,Golden Retriever,Dog,4 years 2 months,Male,4/30/2023,Adoption,,
+10079,4/10/2023,Stray,S079,Unnamed,Abyssinian,Rabbit,3 years 1 month,Female,5/1/2023,Adoption,5/10/2023,Allergic to rabbits
+10080,4/11/2023,Found injured,S080,Unnamed,Rottweiler,Dog,1 year 8 months,Male,5/2/2023,Adoption,,
+10081,4/12/2023,Stray,S081,Unnamed,Persian,Cat,2 years 0 months,Female,5/3/2023,Adoption,,
+10082,4/13/2023,Abandoned,S082,Unnamed,Poodle,Dog,3 years 6 months,Male,5/4/2023,Adoption,,
+10083,4/14/2023,Stray,S083,Unnamed,Tabby,Cat,5 years 0 months,Female,5/5/2023,Adoption,6/1/2023,Moved to a no-pets apartment
+10084,4/15/2023,Owner passed away,S084,Rex,Bichon Frise,Dog,7 years 3 months,Male,5/6/2023,Adoption,,
+10085,4/16/2023,Abandoned,S085,Unnamed,Shih Tzu,Dog,4 years 0 months,Female,5/7/2023,Adoption,6/5/2023,Family allergies
+10086,4/17/2023,Stray,S086,Unnamed,Siamese,Cat,3 years 4 months,Male,5/8/2023,Adoption,6/2/2023,New allergies
+10087,4/18/2023,Moving,S087,Max,Australian Shepherd,Dog,1 year 2 months,Female,5/9/2023,Adoption,6/10/2023,Owner's health issues
+10088,4/19/2023,Stray,S088,Unnamed,Maine Coon,Cat,2 years 3 months,Male,5/10/2023,Adoption,,
+10089,4/20/2023,Abandoned,S089,Bella,Boxer,Dog,3 years 8 months,Female,5/11/2023,Adoption,,
+10090,4/21/2023,Owner passed away,S090,Unnamed,Rottweiler,Dog,5 years 1 month,Male,5/12/2023,Adoption,,
+10091,4/22/2023,Stray,S091,Unnamed,American Shorthair,Cat,4 years 2 months,Female,5/13/2023,Adoption,,
+10092,4/23/2023,Found injured,S092,Unnamed,Doberman,Dog,2 years 0 months,Male,5/14/2023,Adoption,,
+10093,4/24/2023,Moving,S093,Unnamed,Chinchilla,Other,1 year 3 months,Female,5/15/2023,Adoption,,
+10094,4/25/2023,Abandoned,S094,Unnamed,American Bulldog,Dog,2 years 8 months,Male,5/16/2023,Adoption,6/15/2023,Allergic reactions
+10095,4/26/2023,Stray,S095,Unnamed,Havanese,Dog,4 years 2 months,Female,5/17/2023,Adoption,,
+10096,4/27/2023,Owner passed away,S096,Unnamed,Beagle,Dog,6 years 1 month,Female,5/18/2023,Adoption,,
+10097,4/28/2023,Stray,S097,Unnamed,Cocker Spaniel,Dog,3 years 0 months,Male,5/19/2023,Adoption,,
+10098,4/29/2023,Abandoned,S098,Unnamed,Yorkshire Terrier,Dog,2 years 1 month,Female,5/20/2023,Adoption,6/1/2023,New job requires travel
+10099,4/30/2023,Found injured,S099,Buddy,Pomeranian,Dog,5 years 4 months,Male,5/21/2023,Adoption,,
+10100,5/1/2023,Stray,S100,Unnamed,Abyssinian,Rabbit,1 year 6 months,Female,5/22/2023,Adoption,6/15/2023,Allergic to rabbits
+10101,5/2/2023,Abandoned,S101,Fluffy,Great Pyrenees,Dog,2 years 5 months,Male,5/23/2023,Adoption,6/5/2023,Owner had health issues
+10102,5/3/2023,Moving,S102,Unnamed,Persian,Cat,3 years 2 months,Female,5/24/2023,Adoption,6/10/2023,New landlord restrictions
+10103,5/4/2023,Found injured,S103,Tilly,Cocker Spaniel,Dog,3 years 4 months,Female,5/25/2023,Adoption,,
+10104,5/5/2023,Stray,S104,Unnamed,Beagle,Dog,4 years 0 months,Male,5/26/2023,Adoption,6/15/2023,Allergic to pet dander
+10105,5/6/2023,Abandoned,S105,Unnamed,Chihuahua,Dog,1 year 0 months,Female,5/27/2023,Adoption,,
+10106,5/7/2023,Stray,S106,Trixie,Scottish Fold,Cat,4 years 1 month,Female,5/28/2023,Adoption,,
+10107,5/8/2023,Owner passed away,S107,Unnamed,Golden Retriever,Dog,7 years 0 months,Male,5/29/2023,Adoption,6/10/2023,New baby in the family
+10108,5/9/2023,Stray,S108,Unnamed,American Shorthair,Cat,1 year 2 months,Female,5/30/2023,Adoption,6/20/2023,Allergic reactions
+10109,5/10/2023,Abandoned,S109,Unnamed,Boxer,Dog,2 years 7 months,Male,5/31/2023,Adoption,,
+10110,5/11/2023,Found injured,S110,Bella,French Bulldog,Dog,3 years 3 months,Female,6/1/2023,Adoption,,
+10111,5/12/2023,Moving,S111,Unnamed,Labrador Retriever,Dog,5 years 8 months,Male,6/2/2023,Adoption,6/15/2023,Allergic reactions
+10112,5/13/2023,Abandoned,S112,Max,Doberman,Dog,3 years 1 month,Male,6/3/2023,Adoption,6/20/2023,Family allergies
+10113,5/14/2023,Stray,S113,Unnamed,Ragdoll,Cat,2 years 5 months,Female,6/4/2023,Adoption,,
+10114,5/15/2023,Found injured,S114,Snowball,Alaskan Malamute,Dog,4 years 3 months,Male,6/5/2023,Adoption,6/25/2023,Allergic reactions
+10115,5/16/2023,Stray,S115,Unnamed,Pekingese,Dog,2 years 0 months,Female,6/6/2023,Adoption,,
+10116,5/17/2023,Abandoned,S116,Unnamed,English Bulldog,Dog,5 years 4 months,Male,6/7/2023,Adoption,6/15/2023,Family allergies
+10117,5/18/2023,Stray,S117,Unnamed,Shih Tzu,Dog,4 years 1 month,Female,6/8/2023,Adoption,,
+10118,5/19/2023,Moving,S118,Snowy,Domestic Long Hair,Cat,3 years 3 months,Male,6/9/2023,Adoption,6/20/2023,Allergic to cat hair
+10119,5/20/2023,Found injured,S119,Whiskers,Boxer,Dog,3 years 2 months,Male,6/11/2023,Adoption,6/30/2023,Allergic reactions
+10120,5/21/2023,Stray,S120,Unnamed,Golden Retriever,Dog,2 years 9 months,Female,6/12/2023,Adoption,,
+10121,5/22/2023,Owner passed away,S121,Pudding,Cavalier King Charles Spaniel,Dog,8 years 0 months,Female,6/13/2023,Adoption,,
+10122,5/23/2023,Stray,S122,Unnamed,Shiba Inu,Dog,1 year 5 months,Male,6/14/2023,Adoption,,
+10123,5/24/2023,Abandoned,S123,Ginger,Pomeranian,Dog,2 years 3 months,Female,6/15/2023,Adoption,6/20/2023,Allergic reactions
+10124,5/25/2023,Found injured,S124,Fluffy,Rottweiler,Dog,3 years 1 month,Male,6/16/2023,Adoption,,
+10125,5/26/2023,Stray,S125,Unnamed,American Shorthair,Cat,4 years 2 months,Female,6/17/2023,Adoption,,
+10126,5/27/2023,Owner passed away,S126,Unnamed,Labrador Retriever,Dog,5 years 5 months,Male,6/18/2023,Adoption,,
+10127,5/28/2023,Stray,S127,Max,Beagle,Dog,2 years 1 month,Male,6/19/2023,Adoption,,
+10128,5/29/2023,Found injured,S128,Unnamed,Siamese,Cat,1 year 7 months,Female,6/20/2023,Adoption,,
+10129,5/30/2023,Stray,S129,Unnamed,Domestic Long Hair,Cat,2 years 5 months,Male,6/21/2023,Adoption,6/25/2023,Allergic to cat hair
+10130,5/31/2023,Abandoned,S130,Nibbles,Chihuahua,Dog,1 year 5 months,Female,6/22/2023,Adoption,7/1/2023,New job requires travel
+10131,6/1/2023,Found injured,S131,Unnamed,Pekingese,Dog,3 years 0 months,Female,6/23/2023,Adoption,,
+10132,6/2/2023,Abandoned,S132,Unnamed,American Bulldog,Dog,2 years 1 month,Male,6/24/2023,Adoption,7/15/2023,Allergic to pet dander
+10133,6/3/2023,Stray,S133,Felix,British Shorthair,Cat,3 years 2 months,Male,6/25/2023,Adoption,,
+10134,6/4/2023,Owner passed away,S134,Ginger,Ragdoll,Cat,4 years 3 months,Female,6/26/2023,Adoption,,
+10135,6/5/2023,Abandoned,S135,Unnamed,Chihuahua,Dog,2 years 0 months,Male,6/27/2023,Adoption,7/10/2023,Family allergies
+10136,6/6/2023,Found injured,S136,Unnamed,Doberman,Dog,3 years 5 months,Female,6/28/2023,Adoption,,
+10137,6/7/2023,Stray,S137,Unnamed,Bichon Frise,Dog,1 year 8 months,Male,6/29/2023,Adoption,,
+10138,6/8/2023,Found injured,S138,Nibbles,Beagle,Dog,4 years 0 months,Female,6/30/2023,Adoption,,
+10139,6/9/2023,Stray,S139,Unnamed,Persian,Cat,2 years 4 months,Male,7/1/2023,Adoption,,
+10140,6/10/2023,Owner passed away,S140,Lucky,Chihuahua,Dog,7 years 3 months,Male,7/2/2023,Adoption,7/15/2023,Family allergies
+10141,6/11/2023,Stray,S141,Unnamed,Shih Tzu,Dog,3 years 1 month,Female,7/3/2023,Adoption,,
+10142,6/12/2023,Abandoned,S142,Unnamed,Ragdoll,Cat,2 years 5 months,Male,7/4/2023,Adoption,7/10/2023,Allergic reactions
+10143,6/13/2023,Found injured,S143,Charlie,Pomeranian,Dog,5 years 5 months,Female,7/5/2023,Adoption,7/20/2023,Allergic to pet dander
+10144,6/14/2023,Stray,S144,Unnamed,Beagle,Dog,2 years 3 months,Male,7/6/2023,Adoption,,
+10145,6/15/2023,Abandoned,S145,Unnamed,Ragdoll,Cat,3 years 8 months,Female,7/7/2023,Adoption,,
+10146,6/16/2023,Stray,S146,Rex,Pomeranian,Dog,4 years 0 months,Male,7/8/2023,Adoption,,
+10147,6/17/2023,Found injured,S147,Lucky,Chihuahua,Dog,5 years 0 months,Female,7/9/2023,Adoption,7/15/2023,Allergic to pet dander
+10148,6/18/2023,Owner passed away,S148,Ginger,Shiba Inu,Dog,1 year 4 months,Female,7/10/2023,Adoption,,
+10149,6/19/2023,Abandoned,S149,Unnamed,Labrador Retriever,Dog,3 years 6 months,Male,7/11/2023,Adoption,7/15/2023,Family allergies
+10150,6/20/2023,Found injured,S150,Charlie,Domestic Long Hair,Cat,2 years 7 months,Male,7/12/2023,Adoption,,
+10151,6/21/2023,Stray,S151,Unnamed,Beagle,Dog,1 year 10 months,Female,7/13/2023,Adoption,,
+10152,6/22/2023,Abandoned,S152,Daisy,Chihuahua,Dog,2 years 0 months,Female,7/14/2023,Adoption,,
+10153,6/23/2023,Owner passed away,S153,Fluffy,Pekingese,Dog,4 years 3 months,Male,7/15/2023,Adoption,,
+10154,6/24/2023,Stray,S154,Unnamed,Abyssinian,Rabbit,3 years 5 months,Female,7/16/2023,Adoption,,
+10155,6/25/2023,Abandoned,S155,Charlie,Bichon Frise,Dog,2 years 4 months,Male,7/17/2023,Adoption,7/20/2023,Allergic to pet dander
+10156,6/26/2023,Stray,S156,Unnamed,Ragdoll,Cat,1 year 2 months,Female,7/18/2023,Adoption,,
+10157,6/27/2023,Found injured,S157,Max,Shiba Inu,Dog,5 years 3 months,Male,7/19/2023,Adoption,,
+10158,6/28/2023,Stray,S158,Bella,Beagle,Dog,3 years 6 months,Female,7/20/2023,Adoption,,
+10159,6/29/2023,Abandoned,S159,Fluffy,American Bulldog,Dog,2 years 2 months,Male,7/21/2023,Adoption,7/25/2023,Family allergies
+10160,6/30/2023,Stray,S160,Unnamed,Siberian Husky,Dog,4 years 1 month,Female,7/22/2023,Adoption,8/1/2023,Allergic to pet dander
+10161,7/1/2023,Found injured,S161,Oliver,Rottweiler,Dog,3 years 5 months,Male,7/23/2023,Adoption,,
+10162,7/2/2023,Stray,S162,Nibbles,Yorkshire Terrier,Dog,1 year 4 months,Female,7/24/2023,Adoption,,
+10163,7/3/2023,Owner passed away,S163,Unnamed,Cocker Spaniel,Dog,2 years 3 months,Male,7/25/2023,Adoption,,
+10164,7/4/2023,Stray,S164,Smokey,American Shorthair,Cat,2 years 7 months,Male,7/26/2023,Adoption,,
+10165,7/5/2023,Found injured,S165,Trixie,Labrador Retriever,Dog,4 years 0 months,Female,7/27/2023,Adoption,,
+10166,7/6/2023,Stray,S166,Unnamed,Beagle,Dog,1 year 11 months,Male,7/28/2023,Adoption,,
+10167,7/7/2023,Abandoned,S167,Nibbles,Pomeranian,Dog,2 years 5 months,Female,7/29/2023,Adoption,8/5/2023,Family allergies
+10168,7/8/2023,Found injured,S168,Lucky,Bichon Frise,Dog,3 years 1 month,Male,7/30/2023,Adoption,,
+10169,7/9/2023,Stray,S169,Unnamed,Yorkshire Terrier,Dog,4 years 2 months,Female,7/31/2023,Adoption,,
+10170,7/10/2023,Abandoned,S170,Unnamed,Shih Tzu,Dog,3 years 3 months,Male,8/1/2023,Adoption,,
+10171,7/11/2023,Owner passed away,S171,Fluffy,Great Pyrenees,Dog,5 years 0 months,Male,8/2/2023,Adoption,,
+10172,7/12/2023,Stray,S172,Unnamed,Persian,Cat,2 years 1 month,Female,8/3/2023,Adoption,,
+10173,7/13/2023,Found injured,S173,Max,Beagle,Dog,3 years 2 months,Male,8/4/2023,Adoption,,
+10174,7/14/2023,Stray,S174,Unnamed,Siamese,Cat,4 years 4 months,Female,8/5/2023,Adoption,8/15/2023,Allergic to pet dander
+10175,7/15/2023,Abandoned,S175,Unnamed,Boxer,Dog,3 years 0 months,Male,8/6/2023,Adoption,,
+10176,7/16/2023,Found injured,S176,Pudding,Cocker Spaniel,Dog,5 years 4 months,Female,8/7/2023,Adoption,,
+10177,7/17/2023,Stray,S177,Unnamed,Abyssinian,Rabbit,2 years 5 months,Male,8/8/2023,Adoption,,
+10178,7/18/2023,Abandoned,S178,Unnamed,Chihuahua,Dog,2 years 2 months,Female,8/9/2023,Adoption,8/15/2023,Family allergies
+10179,7/19/2023,Owner passed away,S179,Unnamed,American Bulldog,Dog,1 year 11 months,Male,8/10/2023,Adoption,,
+10180,7/20/2023,Stray,S180,Fluffy,Yorkshire Terrier,Dog,3 years 4 months,Female,8/11/2023,Adoption,8/20/2023,Allergic to pet dander
+10181,7/21/2023,Found injured,S181,Unnamed,Rottweiler,Dog,3 years 1 month,Male,8/12/2023,Adoption,8/25/2023,Allergic reactions
+10182,7/22/2023,Stray,S182,Unnamed,Great Pyrenees,Dog,2 years 3 months,Male,8/13/2023,Adoption,8/30/2023,Allergic reactions
+10183,7/23/2023,Abandoned,S183,Unnamed,Siberian Husky,Dog,1 year 10 months,Female,8/14/2023,Adoption,8/20/2023,Allergic reactions
+10184,7/24/2023,Found injured,S184,Buddy,Boxer,Dog,2 years 6 months,Male,8/15/2023,Adoption,,
+10185,7/25/2023,Stray,S185,Unnamed,Pomeranian,Dog,1 year 2 months,Female,8/16/2023,Adoption,,
+10186,7/26/2023,Abandoned,S186,Unnamed,Ragdoll,Cat,2 years 0 months,Male,8/17/2023,Adoption,,
+10187,7/27/2023,Found injured,S187,Trixie,Labrador Retriever,Dog,4 years 3 months,Female,8/18/2023,Adoption,,
+10188,7/28/2023,Stray,S188,Unnamed,Beagle,Dog,1 year 10 months,Male,8/19/2023,Adoption,,
+10189,7/29/2023,Owner passed away,S189,Max,American Bulldog,Dog,3 years 4 months,Male,8/20/2023,Adoption,9/1/2023,Family allergies
+10190,7/30/2023,Found injured,S190,Bella,Rottweiler,Dog,5 years 0 months,Female,8/21/2023,Adoption,,
+10191,7/31/2023,Stray,S191,Unnamed,Yorkshire Terrier,Dog,1 year 6 months,Male,8/22/2023,Adoption,,
+10192,8/1/2023,Abandoned,S192,Trixie,Cocker Spaniel,Dog,3 years 8 months,Female,8/23/2023,Adoption,,
+10193,8/2/2023,Found injured,S193,Ginger,Labrador Retriever,Dog,2 years 2 months,Male,8/24/2023,Adoption,,
+10194,8/3/2023,Stray,S194,Lucky,Beagle,Dog,1 year 3 months,Female,8/25/2023,Adoption,,
+10195,8/4/2023,Owner passed away,S195,Daisy,Siamese,Cat,3 years 1 month,Female,8/26/2023,Adoption,9/10/2023,Family allergies
+10196,8/5/2023,Stray,S196,Fluffy,Rottweiler,Dog,4 years 5 months,Male,8/27/2023,Adoption,,
+10197,8/6/2023,Abandoned,S197,Bella,Chihuahua,Dog,3 years 0 months,Female,8/28/2023,Adoption,,
+10198,8/7/2023,Found injured,S198,Max,Pomeranian,Dog,2 years 6 months,Male,8/29/2023,Adoption,9/5/2023,Allergic to pet dander
+10199,8/8/2023,Stray,S199,Unnamed,Abyssinian,Rabbit,1 year 4 months,Female,8/30/2023,Adoption,,
+10200,8/9/2023,Abandoned,S200,Unnamed,Yorkshire Terrier,Dog,2 years 5 months,Male,8/31/2023,Adoption,,
+10201,8/10/2023,Found injured,S201,Bella,Chihuahua,Dog,4 years 2 months,Female,9/1/2023,Adoption,,
+10202,8/11/2023,Stray,S202,Unnamed,Siberian Husky,Dog,3 years 7 months,Male,9/2/2023,Adoption,,
+10203,8/12/2023,Found injured,S203,Trixie,Bichon Frise,Dog,5 years 1 month,Female,9/3/2023,Adoption,,
+10204,8/13/2023,Stray,S204,Fluffy,Rottweiler,Dog,2 years 4 months,Male,9/4/2023,Adoption,,
+10205,8/14/2023,Owner passed away,S205,Lucky,American Bulldog,Dog,1 year 6 months,Male,9/5/2023,Adoption,9/10/2023,Family allergies
+10206,8/15/2023,Found injured,S206,Rex,Beagle,Dog,4 years 1 month,Male,9/6/2023,Adoption,,
+10207,8/16/2023,Stray,S207,Unnamed,Yorkshire Terrier,Dog,2 years 3 months,Female,9/7/2023,Adoption,,
+10208,8/17/2023,Abandoned,S208,Unnamed,Siamese,Cat,3 years 3 months,Male,9/8/2023,Adoption,,
+10209,8/18/2023,Found injured,S209,Lucky,Chihuahua,Dog,2 years 2 months,Female,9/9/2023,Adoption,9/15/2023,Allergic reactions
+10210,8/19/2023,Stray,S210,Unnamed,Labrador Retriever,Dog,1 year 9 months,Male,9/10/2023,Adoption,,
+10211,8/20/2023,Owner passed away,S211,Daisy,Beagle,Dog,4 years 2 months,Female,9/11/2023,Adoption,,
+10212,8/21/2023,Stray,S212,Unnamed,Great Pyrenees,Dog,2 years 0 months,Male,9/12/2023,Adoption,9/20/2023,Allergic reactions
+10213,8/22/2023,Found injured,S213,Unnamed,Cocker Spaniel,Dog,3 years 5 months,Female,9/13/2023,Adoption,,
+10214,8/23/2023,Stray,S214,Charlie,Boxer,Dog,2 years 1 month,Male,9/14/2023,Adoption,,
+10215,8/24/2023,Owner passed away,S215,Fluffy,Labrador Retriever,Dog,1 year 11 months,Male,9/15/2023,Adoption,9/22/2023,Family allergies
+10216,8/25/2023,Found injured,S216,Max,Beagle,Dog,2 years 3 months,Male,9/16/2023,Adoption,,
+10217,8/26/2023,Stray,S217,Unnamed,Siamese,Cat,4 years 6 months,Female,9/17/2023,Adoption,,
+10218,8/27/2023,Abandoned,S218,Nibbles,Cocker Spaniel,Dog,2 years 2 months,Female,9/18/2023,Adoption,,
+10219,8/28/2023,Found injured,S219,Daisy,Yorkshire Terrier,Dog,3 years 4 months,Female,9/19/2023,Adoption,,
+10220,8/29/2023,Stray,S220,Unnamed,Labrador Retriever,Dog,1 year 11 months,Male,9/20/2023,Adoption,,
+10221,8/30/2023,Owner passed away,S221,Unnamed,Pekingese,Dog,2 years 6 months,Male,9/21/2023,Adoption,,
